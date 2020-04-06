@@ -1,17 +1,10 @@
 # Barcode_Scanner_Android_App
 An easy fast way to implement a barcode scanner to your android app !
 
-Comment scanner un code barre avec Android studio ?
-De nombreux tutos suivis pour trouver le graal, scanner un code sans utiliser d'applications tierce !
+# How to read a barcode/ QRCode with Android Studio ?
+The best and effetive way to give a barcode scanner to your android app in few minutes !
+And all without a tierce app installation !
 
-# Une application qui scanne les codes barres en moins de 2 min !
-Utilisez ce code pour implémenter cette fonctionné rapidement !
-
-# Un code robuste ! Y compris pour des app pros !
-Ce code utilise les api Google Vision pour une efficacité optimale !
-Vous pourrez déployer cette nouvelle fonctionnalité dans votre application d'inventaire par exemple.
-Je l'utilise moi-même pour la solution de gestion des périmés Adate (www.adate-app.com) que j'ai développé pour la grande distribution.
-
-# A venir
-Dans un prochain commit je rajouterais la recherche de produits dans une bdd firebase via le scan d'un code barre.
-Stay tuned!
+# Use this code also for professionnals apps !
+I used it for Adate, an expired date anticiation solution for retail.
+https://play.google.com/store/apps/details?id=solution.adate
